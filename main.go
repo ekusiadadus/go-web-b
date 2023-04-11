@@ -18,4 +18,5 @@ func main(){
   child(ctx)
   cancel()
   child(ctx)
+  // Second call is cancelled
 }
